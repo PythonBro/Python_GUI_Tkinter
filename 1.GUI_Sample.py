@@ -6,6 +6,7 @@ from tkinter import ttk
 def foo():
 	print("Hello, %s!" % t.get())
 
+# Windowを作製
 root = Tk()
 root.title("My First App")
 frame1 = ttk.Frame(root)
@@ -24,4 +25,5 @@ button1.grid(row = 2, column = 2, sticky = W)
 for child in frame1.winfo_children():
 	child.grid_configure(padx = 5, pady = 5)
 
+# イベントループを実行
 root.mainloop()
