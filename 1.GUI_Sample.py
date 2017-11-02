@@ -6,7 +6,7 @@ from tkinter import ttk
 def foo():
 	print("Hello, %s!" % t.get())
 
-# Windowを作製
+# Windowを作成
 root = Tk()
 root.title("My First App")
 frame1 = ttk.Frame(root)
