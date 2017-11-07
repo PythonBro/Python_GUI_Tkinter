@@ -1,0 +1,3 @@
+([('GraphViewer_Ver.1.0.1',
+   '/Users/masazumi/Dropbox/GitHub/Python_GUI_Tkinter/dist/GraphViewer_Ver.1.0.1',
+   'EXECUTABLE')],)
