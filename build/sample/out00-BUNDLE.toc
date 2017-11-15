@@ -1,3 +1,0 @@
-([('sample',
-   '/Users/masazumi/Dropbox/GitHub/Python_GUI_Tkinter/dist/sample',
-   'EXECUTABLE')],)
